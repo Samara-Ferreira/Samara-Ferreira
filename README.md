@@ -10,7 +10,7 @@ PALETA DE CORES USADA:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+SAMARA+💗;SEJA+BEM+VINDO(A)+AO+MEU+PERFIL!+:%29)](https:git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+SAMARA+💗;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL!+:%29)](https:git.io/typing-svg)
 
 - 🌱 Atualmente sou estudante de Engenharia de Computação, na Universidade Estadual de Feira de Santana (UEFS)!
 
