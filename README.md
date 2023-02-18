@@ -18,13 +18,16 @@ PALETA DE CORES USADA:
 
 - 🌱 Atualmente sou estudante de Engenharia de Computação, na Universidade Estadual de Feira de Santana (UEFS)!
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samara-Ferreira&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Samara Ferreira github stats" />
-
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Ferreira&layout=compact&hide_border=true&title_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
+<!-- Cards of most languages -->
+&nbsp;
+<p align="center">
+    <a href="https://github.com/Samara-Ferreira/">
+        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samara-Ferreira&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true/" />
+    </a>
+    <a href="https://github.com/Samara-Ferreira/">
+        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Ferreira&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true/" />
+    </a>
+</p>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Samara-Ferreira&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
