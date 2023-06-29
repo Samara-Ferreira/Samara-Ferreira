@@ -29,12 +29,11 @@ PALETA DE CORES USADA:
     </a>
 </p>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Samara-Ferreira&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- Other -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Samara-Ferreira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<!-- Instagram -->
 <div align="center">
 <a href="https://instagram.com/samara.santosf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
