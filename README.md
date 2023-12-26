@@ -11,7 +11,6 @@ PALETA DE CORES USADA:
 
 <!-- ### Olá! Me chamo Samara 💗 -->
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+SAMARA+💗;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL!+:%29)](https:git.io/typing-svg)
@@ -25,7 +24,8 @@ PALETA DE CORES USADA:
         <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samara-Ferreira&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true/" />
     </a>
     <a href="https://github.com/Samara-Ferreira/">
-        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Ferreira&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true/" />
+        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Ferreira&layout=compact&count_private=true&hide_border=true&card_width=445&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&icon_color=ff69b4/" />
+        <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-  Ferreira&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true/" /> -->
     </a>
 </p>
 
