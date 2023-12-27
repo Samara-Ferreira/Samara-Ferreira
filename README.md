@@ -18,13 +18,12 @@ PALETA DE CORES USADA:
 - 🌱 Atualmente sou estudante de Engenharia de Computação, na Universidade Estadual de Feira de Santana (UEFS)!
 
 <!-- Cards of most languages -->
-&nbsp;
 <p align="center">
     <a href="https://github.com/Samara-Ferreira/">
         <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samara-Ferreira&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true/" />
     </a>
     <a href="https://github.com/Samara-Ferreira/">
-        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Ferreira&layout=compact&count_private=true&hide_border=true&card_width=445&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&icon_color=ff69b4/" />
+        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Ferreira&layout=compact&hide_border=true&card_width=445&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&icon_color=ff69b4" />
         <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-  Ferreira&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&hide_border=true/" /> -->
     </a>
 </p>
@@ -37,3 +36,9 @@ PALETA DE CORES USADA:
 <!-- Instagram -->
 <div align="center">
 <a href="https://instagram.com/samara.santosf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
+<!--
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Samara-Ferreira}/count.svg" /></p> 
+<br></div> -->
