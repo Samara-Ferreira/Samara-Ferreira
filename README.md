@@ -12,8 +12,9 @@ PALETA DE CORES USADA:
 🌱 Atualmente sou estudante de Engenharia de Computação, na Universidade Estadual de Feira de Santana (UEFS)!
 
 <div align="center">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samara-Ferreira&hide=issues,prs&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffb6c1&text_color=ffffff&icon_color=ffb6c1&hide_border=true/" />
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Ferreira&layout=compact&hide_border=true&card_width=445&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Samara-Ferreira&hide=issues,prs&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffb6c1&text_color=ffffff&icon_color=ffb6c1&hide_border=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samara-Ferreira&layout=compact&hide_border=true&title_color=ffb6c1&text_color=ffffff&bg_color=0d1117" />
+ 
 </div>
 
  ## 💻 Main Skills:
